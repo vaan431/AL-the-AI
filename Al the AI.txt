@@ -1,0 +1,12 @@
+For functioning please copy paste the following in your cmd:
+	pip install pyttsx3
+	pip install webbrowser
+	pip install random
+	pip install speech_recognition as sr
+	pip install wikipedia
+	pip install datetime
+	pip install wolframalpha
+	pip install os
+	pip install sys
+	pip install datetime
+	pip install time
